@@ -5,4 +5,4 @@
 
 TEAMMATES project
 Use Case Scenario
-Groth Scenario
+and Growth Scenario
